@@ -13,4 +13,9 @@ Pernambuco, mas se não for possível, devido a falta de dados, então o escopo 
 globalmente.
 
 ## Arquivos
-Os arquivos dentro da pasta Notebook contém o core do projeto. Enquanto as pastas Mapas e Dados CSV contém arquivos de comunicação entre os notebooks e outputs.
+Os arquivos dentro da pasta [Notebooks](https://github.com/if1015-datascience-ufpe/2018-1-projeto-xo-mosquito/tree/master/Notebooks) contém o desenvolvimentoo do projeto relacionado a coleta, limpeza, análise exploratória dos dados e modelos.
+
+Enquanto a pastas [Mapas](https://github.com/if1015-datascience-ufpe/2018-1-projeto-xo-mosquito/tree/master/Mapas)
+contém os arquivos relacionados a visualização dos dados dos bairros x casos de dengue.
+
+A pasta [Dados CSV](https://github.com/if1015-datascience-ufpe/2018-1-projeto-xo-mosquito/tree/master/Dados CSV) contém arquivos de comunicação entre os notebooks e outputs.
