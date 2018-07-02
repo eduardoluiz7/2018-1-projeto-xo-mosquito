@@ -19,3 +19,7 @@ Enquanto a pastas [Mapas](https://github.com/if1015-datascience-ufpe/2018-1-proj
 contém os arquivos relacionados a visualização dos dados dos bairros x casos de dengue.
 
 A pasta [Dados_CSV](https://github.com/if1015-datascience-ufpe/2018-1-projeto-xo-mosquito/tree/master/Dados_CSV) contém arquivos de comunicação entre os notebooks e outputs.
+
+## Apresentação
+
+[Link](https://docs.google.com/presentation/d/15LODwxdPUSU-Dazk00BKsQ4OIJ1q_yZVFApvSK3ogEI/edit?usp=sharing)
